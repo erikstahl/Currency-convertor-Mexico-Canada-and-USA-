@@ -1,4 +1,4 @@
-Currency convertor Mexico Canada and USA 
+// Currency convertor Mexico Canada and USA 
 May 13 at 8:15 PM
 enum Currency
 case cad
